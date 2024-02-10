@@ -1,5 +1,5 @@
 # poka_yoke_txrx
-Footprint for KiCAD for Tx Rx ports.
+Footprint for KiCAD for Rx/Tx ports.
 
 Inspired by [@Braincodec](https://twitter.com/braincodec/status/914080981858050048) on X 
 
